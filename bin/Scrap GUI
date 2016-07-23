@@ -1,0 +1,73 @@
+		//Length
+		//info.add(le);
+		//info.add(length);
+		//info.add(cm);
+		//Weight
+		//info.add(we);
+		//info.add(weight);
+		//info.add(t2);
+		//info.add(exp1);
+		//info.add(n1);
+		/*//Drag
+		info.add(dr);
+		info.add(dr2);
+		info.add(drag);
+		info.add(t3);
+		info.add(exp3);
+		info.add(n3);
+		/*
+		//Measured wind speed
+		info.add(me);
+		info.add(me2);
+		info.add(measured);
+		info.add(t4);
+		info.add(exp4);
+		info.add(k1);
+		//Equivalent wind speed
+		info.add(eq);
+		info.add(eq2);
+		info.add(equiv);
+		info.add(t5);
+		info.add(exp5);
+		info.add(k2);*/
+		
+		
+		
+				//testing.setText("Testing");
+		//otherTesting=new JRadioButton();
+		//otherTesting.setText("Yahooo!");
+		//Instantiate buttons and register ActionListeners
+		
+		
+		//otherButtonB=new JButton("Don't Click Me!");
+		//otherButtonB.addActionListener(new OtherButtonHandler());
+
+		
+
+		//Set window title
+		//setTitle("Wind Tunnel Analyzer");
+
+
+
+
+
+		//Add content to the pane
+
+		//pane.add(someButtonB);
+		//pane.add(otherButtonB);
+		//pane.add(someOutputTF);
+		//pane.add(testing);
+		//pane.add(otherTesting);
+
+		//Other JFrame stuff
+		
+		//setVisible(true);
+		//setDefaultCloseOperation(EXIT_ON_CLOSE);
+		//setLocationRelativeTo(null);
+		//pack();
+		
+		
+		
+		
+		
+		
